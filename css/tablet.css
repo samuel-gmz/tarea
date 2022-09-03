@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: rgb(117, 249, 119);
+}
+
+nav {
+    background-color: rgb(80, 161, 93);
+}
+
+aside {
+    background-color: rgb(227, 146, 81);
+}
+
+main {
+    background-color: rgb(216, 88, 83);
+}
+
+article {
+    background-color: white;
+}
+
+footer {
+    background-color: rgb(168, 103, 206);
+}
