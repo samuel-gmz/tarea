@@ -43,11 +43,6 @@ header {
     margin-top: 2%;
 }
 
-header nav h2 {
-    margin-left: 2%;
-    align-self: center;
-}
-
 nav { 
     background-color: rgb(80, 161, 93);
     display: flex;
@@ -55,6 +50,11 @@ nav {
     width: 90%; 
     align-self: center;
     border-radius: 7px;
+}
+
+header nav h2 {
+    margin-left: 2%;
+    align-self: center;
 }
 
 /* Sección central de la página */ 
