@@ -33,10 +33,11 @@ header, nav, aside, main, article, footer {
 /* Header */
 
 header {
-    background-color: rgb(117, 249, 119);
+    background-color: #F20544;
     display: flex;
     flex-direction: column;
     height: 100px;
+    margin-bottom: 0;
 }
 
 .header-h2 {
@@ -45,7 +46,7 @@ header {
 }
 
 nav { 
-    background-color: rgb(80, 161, 93);
+    background-color: #A60321;
     display: flex;
     height: 50%;
     width: 90%; 
@@ -66,7 +67,7 @@ header nav h2 {
 }
 
 aside {
-    background-color: rgb(227, 146, 81);
+    background-color: #F28705;
     margin-top: 12px;
     height: 250px;
     order: 2;
@@ -78,7 +79,7 @@ aside h2 {
 }
 
 main {
-    background-color: rgb(216, 88, 83);
+    background-color: #F20505;
     height: 840px;
 }
 
@@ -101,7 +102,7 @@ article h2 {
 /* Footer */
 
 footer {
-    background-color: rgb(168, 103, 206);
+    background-color: #0D0259;
     height: 100px;
     margin-top: 12px;
 }
